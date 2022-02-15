@@ -9,3 +9,6 @@ feature 2
 
 
 Feature 1 - Version 2 added
+
+
+new bug fix 15-02-2022
